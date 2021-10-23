@@ -1,6 +1,5 @@
 N = 9
 
-
 def output_file(a):
     with open('output.txt', 'r+') as file:
         for i in range(N):
